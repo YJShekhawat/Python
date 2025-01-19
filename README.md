@@ -1,1 +1,1 @@
-Thjis repo contains different python programs.
+This repo contains different python programs.
